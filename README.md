@@ -1,5 +1,5 @@
-# Proyecto_FragmentacionH
-### **Repositorio correspondiente al proyecto de fragmentación horizontal del Equipo 1**
+# ProyectoFragmentacionHorizontal
+### **Repositorio correspondiente al proyecto de fragmentación horizontal de Bases de Datos Distribuidas**
 
 SERVIDORES VINCULADOS
 - SERVER1.SalesAW
